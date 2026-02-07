@@ -34,7 +34,7 @@ This project is designed as a **portfolio-ready application**, demonstrating bes
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/your-username/next-ai-chatbot.git
+git clone https://github.com/hrt-code/nextjs-ai-chatbot.git
 cd next-ai-chatbot
 ```
 
